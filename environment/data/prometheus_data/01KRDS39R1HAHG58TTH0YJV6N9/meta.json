@@ -1,0 +1,18 @@
+{
+	"ulid": "01KRDS39R1HAHG58TTH0YJV6N9",
+	"minTime": 1778500800000,
+	"maxTime": 1778508000000,
+	"stats": {
+		"numSamples": 132492,
+		"numFloatSamples": 132492,
+		"numSeries": 2172,
+		"numChunks": 2172
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01KRDS39R1HAHG58TTH0YJV6N9"
+		]
+	},
+	"version": 1
+}

@@ -1,0 +1,18 @@
+{
+	"ulid": "01KSCJ9Y9744P65J06208EX45A",
+	"minTime": 1779098400000,
+	"maxTime": 1779105600000,
+	"stats": {
+		"numSamples": 2840140,
+		"numFloatSamples": 2840140,
+		"numSeries": 2150,
+		"numChunks": 24445
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01KSCJ9Y9744P65J06208EX45A"
+		]
+	},
+	"version": 1
+}
